@@ -1,0 +1,40 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+header {
+    background: linear-gradient(to top, #F0EBE6 0%, #3A6170 50%, #022F48 100%);
+    padding: 30px;
+    color: #687965;
+}
+
+header img {
+    width: 150px;
+    margin-right: 30px;
+    border: 3px solid #687965;
+}
+
+body {
+    background-color: #F0EBE6;
+    color: #687965;
+}
+
+main {
+    padding: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #3A6170;
+}
+
+footer {
+    background: linear-gradient(to bottom, #F0EBE6 0%, #3A6170 50%, #022F48 100%);
+    padding: 30px;
+    color: #161925;
+}
+
+footer a {
+    color: #1F272C;
+    font-size: large;
+}
